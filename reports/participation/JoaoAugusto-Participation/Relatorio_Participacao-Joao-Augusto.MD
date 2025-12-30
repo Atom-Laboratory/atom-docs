@@ -1,6 +1,8 @@
 # Relatório de Desenvolvimento/Participacao em Projeto de Braco Robotico Modular com Visao Computacional
 
 **Data do Relatório:** 16 de Dezembro de 2025 
+- Período: Maio de 2025 a Dezembro de 2025
+- Função: Desenvolvedor de Software e Pesquisador
 **Data de Término:** 31 de Dezembro de 2025 
 ---
 
@@ -62,6 +64,32 @@
    - Termino: em andamento
    - Descrição: Criar um artigo cientifico sobre o projeto do braco robotico modular com visao computacional.
    - Foi dito pelo professoir Ricardo para criarmos um artigo cientifico sobre o projeto.
+---
+## Resultados obtidos
+
+Resultados concretos das atividades (funcionalidades, experimentos, protótipos, código).
+
+- Resultado 1: Desenvolvimento de algoritmos com performance aceitável para detecção de mãos
+- Resultado 2: Montagem do braço robótico concluída, pesquisa contextualizadora finalizada.
+---
+
+## Aprendizados e melhorias
+Principais aprendizados e como contribuem ao projeto/pessoal.
+
+- Aprendizado 1: Estudo e aplicação de LibCv em C para visão computacional
+- Aprendizado 2: Estudo e aplicação de OpenCv em C++ para visão computacional
+- Aprendizado 3: Compreensão dos desafios técnicos na integração de diferentes linguagens e bibliotecas
+- Aprendizado 4: Desenvolvimento de habilidades de pesquisa científica
+- Aprendizado 5: Trabalho em equipe e comunicação efetiva em reuniões semanais
+---
+
+## Desafios e dificuldades
+Problemas encontrados e ações tomadas ou propostas.
+
+- Desafio 1: Preparação do ambiente de desenvolvimento para OpenCV em C++
+  - Ação/tentativa de resolução: Pesquisa de tutoriais e fóruns, configuração manual do ambiente
+- Desafio 2: Tentativa de utilizar LibCV para C puro
+  - Ação/tentativa de resolução: Impasse técnico devido à incompatibilidade entre o ambiente computacional e biblioteca
 ---
 
 ## Observações Finais
