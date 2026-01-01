@@ -25,7 +25,7 @@
    - **Responsável:** Eduardo do Amaral Melo Pereira  
    - **Término:** 16 de outubro de 2025  
    - **Descrição:**  
-     Desenvolvimento de um projeto de visão computacional utilizando a linguagem Python, com foco em processamento de imagens e reconhecimento visual. Essa atividade permitiu a aplicação prática dos conceitos estudados e serviu como base experimental para futuras integrações com o braço robótico.
+     Desenvolvimento de um projeto de visão computacional utilizando a linguagem Python, com foco em processamento de imagens e reconhecimento visual. Essa atividade permitiu a aplicação prática dos conceitos estudados e serviu como base experimental para futuras integrações com braço robótico.
 
 4. **Montagem do Braço Robótico Modular**
    - **Responsável:** Eduardo do Amaral Melo Pereira  
