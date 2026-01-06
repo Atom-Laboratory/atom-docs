@@ -15,12 +15,6 @@
    - **Descrição:**  
      Realização de uma pesquisa contextualizadora baseada em artigos científicos sobre braços robóticos modulares e visão computacional. O estudo teve como foco a análise do artigo *“Industrial workspace detection of a robotic arm using combined 2D and 3D vision processing”*, que aborda a integração de sistemas de visão 2D e 3D para reconhecimento do espaço de trabalho de braços robóticos, contribuindo para maior precisão, segurança e eficiência em ambientes industriais.
 
-2. **Documentação da Reunião Geral nº 8**
-   - **Responsável:** Eduardo do Amaral Melo Pereira  
-   - **Término:** Setembro de 2025  
-   - **Descrição:**  
-     Documentação da oitava reunião geral do projeto, registrando os principais pontos discutidos pela equipe, decisões tomadas, andamento das atividades, dificuldades identificadas e definição de próximos passos. Essa documentação auxiliou na organização e no acompanhamento do progresso do projeto.
-
 3. **Implementação de Projeto de Visão Computacional em Python**
    - **Responsável:** Eduardo do Amaral Melo Pereira  
    - **Término:** 16 de outubro de 2025  
