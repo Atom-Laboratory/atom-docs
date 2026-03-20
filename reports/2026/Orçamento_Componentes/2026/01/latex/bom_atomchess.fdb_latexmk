@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1774013990.2681 "f:/Users/Enzo HD/Github/Repos/Atom/documentation/reports/2026/Orçamento_Componentes/2026/01/latex/bom_atomchess.tex" "bom_atomchess.pdf" "bom_atomchess" 1774013991.33756 0
+["pdflatex"] 1774014740.20401 "f:/Users/Enzo HD/Github/Repos/Atom/documentation/reports/2026/Orçamento_Componentes/2026/01/latex/bom_atomchess.tex" "bom_atomchess.pdf" "bom_atomchess" 1774014741.1586 0
   "../images/images.png" 1773971979 1395 813da5b0c6b6e233f01507e6cde00c1d ""
   "C:/Users/maria/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1774008321 262767 f9dafed0b55ef52f2ae378bf29f3dd91 ""
   "C:/Users/maria/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1769136128 28976 3e2dc5c5fbfd30180f8ab2f0180f791a ""
@@ -84,10 +84,10 @@
   "C:/Users/maria/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1761901070 15651 9d7c62df82cb29a555c00550babfe364 ""
   "C:/Users/maria/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1761901070 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Users/maria/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "bom_atomchess.aux" 1774013991 1687 fd477d39af0804bbdaea3b53e1418e08 "pdflatex"
-  "bom_atomchess.out" 1774013991 2353 19b514ef5ea29f90637b8b5f9fd2772d "pdflatex"
-  "bom_atomchess.tex" 1774013989 7335 f5b281fa775c1a77cb85778d763cd6eb ""
-  "f:/Users/Enzo HD/Github/Repos/Atom/documentation/reports/2026/Orçamento_Componentes/2026/01/latex/bom_atomchess.tex" 1774013989 7335 f5b281fa775c1a77cb85778d763cd6eb ""
+  "bom_atomchess.aux" 1774014740 1665 7817546c84d331c30988acb8cce007a0 "pdflatex"
+  "bom_atomchess.out" 1774014740 2311 3f259ec74b94c0b3279d358b56e2fe46 "pdflatex"
+  "bom_atomchess.tex" 1774014738 9372 6613db31cf6338ee1f4f81abe35c0e33 ""
+  "f:/Users/Enzo HD/Github/Repos/Atom/documentation/reports/2026/Orçamento_Componentes/2026/01/latex/bom_atomchess.tex" 1774014738 9372 6613db31cf6338ee1f4f81abe35c0e33 ""
   (generated)
   "bom_atomchess.aux"
   "bom_atomchess.log"
